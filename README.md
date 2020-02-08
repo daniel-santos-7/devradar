@@ -25,4 +25,4 @@ que esses utilizam.
 
 ---
 
-:coffee: Desenvolvido por Daniel Santos
+:coffee: Desenvolvido por Daniel Santos && [Rocketseat](https://github.com/Rocketseat)
