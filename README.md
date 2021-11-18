@@ -24,5 +24,6 @@ que esses utilizam.
 - [Axios](https://github.com/axios/axios)
 
 ---
-
-:coffee: Desenvolvido por Daniel Santos && [Rocketseat](https://github.com/Rocketseat)
+<p align="center">
+:coffee: Desenvolvido por Daniel Santos && <a href="https://github.com/Rocketseat">Rocketseat</a>
+</p>
